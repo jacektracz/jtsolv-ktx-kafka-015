@@ -1,0 +1,5 @@
+/lkd/2024-kafka-jtsolv/app/jtsolv-kafka-basic-producer-consumer/kafka-producer-application/src/main/java/io/jtsolv/kafka/developer/KafkaConsumerExample.java
+/lkd/2024-kafka-jtsolv/app/jtsolv-kafka-basic-producer-consumer/kafka-producer-application/src/main/java/io/jtsolv/kafka/developer/KafkaProducerExample.java
+/lkd/2024-kafka-jtsolv/app/jtsolv-kafka-basic-producer-consumer/kafka-producer-application/src/main/java/io/jtsolv/kafka/developer/ManualPartitionAssignmentConsumer.java
+/lkd/2024-kafka-jtsolv/app/jtsolv-kafka-basic-producer-consumer/kafka-producer-application/src/main/java/io/jtsolv/kafka/developer/KafkaProducerApplication.java
+/lkd/2024-kafka-jtsolv/app/jtsolv-kafka-basic-producer-consumer/kafka-producer-application/src/main/java/io/jtsolv/kafka/developer/MultiPartitionConsumer.java
